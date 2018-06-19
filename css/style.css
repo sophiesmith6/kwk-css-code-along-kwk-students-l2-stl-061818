@@ -7,3 +7,10 @@ body {
       background-color: gray;
       color: blue
     }
+    
+    .coolCanadians {
+      background-color: orange;
+      border: red 15px solid;
+      font-size: 80px;
+      text-align: center;
+    }
