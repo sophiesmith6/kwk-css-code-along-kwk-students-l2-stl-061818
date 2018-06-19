@@ -1,1 +1,22 @@
-/* add CSS class and element and selectors here */
+body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+    .myClass {
+      background-color: gray;
+      color: blue
+    }
+    
+    .coolCanadians {
+      background-color: orange;
+      border: red 15px solid;
+      font-size: 80px;
+      text-align: center;
+    }
+    
+    #sophiesClass {
+      color: orange;
+    } 
+      
+    }
